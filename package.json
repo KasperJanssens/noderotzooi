@@ -1,0 +1,9 @@
+{
+  "name": "rotzooi",
+  "version": "1.0.0",
+  "description": "t",
+  "author": "Kasper",
+  "dependencies": {
+    "smtp-client": "0.3.1"
+  }
+}
